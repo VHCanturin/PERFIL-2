@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Consultoría y asesoría política en comunicación estratégica y gestión gubernamental">
+    <title>Consultoría Política y Comunicación Estratégica</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #002244;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        header p {
+            font-size: 1.2em;
+            font-style: italic;
+        }
+
+        nav {
+            background-color: #011a33;
+            text-align: center;
+            padding: 10px;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+
+        nav ul li a {
+            color: #ffcc00;
+            text-decoration: none;
+            font-size: 1.1em;
+        }
+
+        section {
+            padding: 50px 20px;
+            margin: 20px auto;
+            max-width: 1200px;
+            background-color: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        section h2 {
+            color: #002244;
+            font-size: 2em;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        section p {
+            font-size: 1.1em;
+            line-height: 1.6;
+            color: #555;
+        }
+
+        .profile-quote {
+            font-style: italic;
+            text-align: center;
+            margin-top: 20px;
+            color: #002244;
+        }
+
+        footer {
+            background-color: #002244;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+
+    </style>
+</head>
+<body>
+    <!-- Encabezado -->
+    <header>
+        <h1>Consultoría en Política y Comunicación</h1>
+        <p>Solvencia, Distinción y Estrategia</p>
+    </header>
+
+    <!-- Menú de navegación -->
+    <nav>
+        <ul>
+            <li><a href="#perfil">Perfil</a></li>
+            <li><a href="#gobierno-comunicacion">Gobierno & Comunicación</a></li>
+            <li><a href="#politica-digital">Política Digital</a></li>
+            <li><a href="#campana-politica">Campaña Política</a></li>
+            <li><a href="#gobierno">Gobierno</a></li>
+        </ul>
+    </nav>
+
+    <!-- Sección de Perfil -->
+    <section id="perfil">
+        <h2>Perfil</h2>
+        <p><strong>Política & Comunicación</strong></p>
+        <p>La comunicación estratégica busca, SIEMPRE, la CONFIANZA de su audiencia. El político debe generar cambios en la sociedad que lo rodea, transformar la realidad. No sólo se trata de elecciones, sino de la gestión adecuada, de lazos firmes con todos los actores, manejando así la percepción de valor que se tiene de él.</p>
+        <p class="profile-quote">“Todos queremos dejar un legado en nuestra historia. Sea personal, comunitaria o familiar; todo tiene que ver con tu MARCA. Vive para eso y HARÁS HISTORIA.”</p>
+    </section>
+
+    <!-- Sección Gobierno & Comunicación -->
+    <section id="gobierno-comunicacion">
+        <h2>Gobierno & Comunicación</h2>
+        <p><strong>Consultoría y asesoría política</strong> para generar resultados deseados. Planificación estratégica en:</p>
+        <ul>
+            <li>Plan de MKT Político – Propaganda</li>
+            <li>Comunicación Interna – Externa</li>
+            <li>Relaciones públicas. Reputación</li>
+            <li>Manejo de crisis</li>
+            <li>Relación con los medios – Voceros</li>
+        </ul>
+    </section>
+
+    <!-- Sección Política Digital 360º -->
+    <section id="politica-digital">
+        <h2>Política Digital 360º</h2>
+        <p>Servicios integrales en política digital:</p>
+        <ul>
+            <li>SEO – Google</li>
+            <li>Mapas de búsqueda sectorizado – campañas en buscadores</li>
+            <li>Segmentación – gestión de redes. Microtargeting</li>
+            <li>Antropología política digital</li>
+            <li>Thick data - Big data</li>
+            <li>Social listening – análisis discursivo</li>
+            <li>Gerencia de relación con el ciudadano – CRM</li>
+        </ul>
+    </section>
+
+    <!-- Sección Campaña Política -->
+    <section id="campana-politica">
+        <h2>Campaña Política</h2>
+        <p>Consultoría en campañas políticas para alcanzar objetivos clave:</p>
+        <ul>
+            <li>Análisis de competencia</li>
+            <li>Diseño muestral cuantitativo</li>
+            <li>Focus groups</li>
+            <li>War room electoral</li>
+            <li>Storytelling, Spots y Redes – MKT digital</li>
+            <li>Branding político, diseño de imagen y reputación</li>
+        </ul>
+    </section>
+
+    <!-- Sección Gobierno -->
+    <section id="gobierno">
+        <h2>Gobierno</h2>
+        <p>Asesoría en gestión gubernamental:</p>
+        <ul>
+            <li>Análisis económico e interpretación de datos</li>
+            <li>Alineamiento de expectativas con oferta política</li>
+            <li>Optimización de gasto corriente e inversión pública</li>
+            <li>Diseño y estructuración de planilla – administración burocrática</li>
+            <li>Organización, caracterización de funciones – MOF / ROF</li>
+            <li>Liquidación de gestión – OCI</li>
+        </ul>
+    </section>
+
+    <!-- Pie de página -->
+    <footer>
+        <p>&copy; 2024 Consultoría Política y Comunicación. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
